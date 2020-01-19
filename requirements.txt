@@ -1,0 +1,9 @@
+py3-pinterest
+parse
+play_scraper
+requests
+requests_html
+apscheduler
+discord
+asyncio
+datetime

@@ -1,4 +1,4 @@
-![GitHub Logo](/logo.png)
+![GitHub Logo](/gameboard.png)
 
 # Gameboard
 A Discord bot that lists games to Pinterest

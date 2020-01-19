@@ -31,6 +31,8 @@ Administrative commands:
 
 `addsection (server_id) <Section Name...>` adds a section to this server's board. Sections can be configured as you wish. It only matters how you want to segment the entries that members make. For instance, you can add just one section named "Community Games" and all games will only be able to be placed under that, or you can make sections for different events like "Ludum Dare 41", "Community Jam 69", or you could even create seperate sections for genres like "Strategy", "Puzzle", or "Mobile". It is completely up to you. Just keep in mind that, for the time being, sections cannot be deleted.
 
+Member-level commands:
+
 ### Entry
 
 `entry` starts the entry process for adding a project to Gameboard.

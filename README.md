@@ -7,6 +7,10 @@ A Discord bot that lists games to Pinterest
 
 Use this [invite](https://discordapp.com/oauth2/authorize?client_id=658509820957032458&permissions=10240&scope=bot) to invite the bot to your server.
 
+## Hosting
+
+If you wish to host the bot yourself, feel free to do so. It requires Python 3+. You will need to create a Pinterest account and enter the details into `credentials.txt`, as well as your bot's token. Please do not claim it is your own work however, and leave in the credits.
+
 ## Setup
 
 Upon joining your server, it will message the owner of the server with details to set it up. It is just a few commands that will take only a few moments: `setentry` `setpromo` and `addsection`

@@ -9,7 +9,7 @@ Use this [invite](https://discordapp.com/oauth2/authorize?client_id=658509820957
 
 ## Hosting
 
-If you wish to host the bot yourself, feel free to do so. It requires Python 3+. You will need to create a Pinterest account and enter the details into `credentials.txt`, as well as your bot's token. Please do not claim it is your own work however, and leave in the credits.
+If you wish to host the bot yourself, feel free to do so. It requires Python 3+. You will need to create a Pinterest account and enter the details into `credentials.txt`, as well as your bot's token. However, do not claim it is your own work, and leave in the credits.
 
 ## Setup
 

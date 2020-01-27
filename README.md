@@ -17,7 +17,7 @@ Upon joining your server, it will message the owner of the server with details t
 
 ## Commands
 
-Unless otherwise stated, the callsign/prefix for commands is: `gb>`
+Unless otherwise stated, the callsign/prefix for commands is: `g>`
 
 `(parameter)` - Optional parameter
 

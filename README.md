@@ -1,6 +1,7 @@
 ![Logo](/gameboard.png)
-![Demo](/demo.png){:height="20%" width="20%"}
-![Pin Demo](/pindemo.png){:height="20%" width="20%"}
+
+![Demo](/demo.png)
+![Pin Demo](/pindemo.png)
 
 # Gameboard
 A Discord bot that lists games to Pinterest

@@ -1,7 +1,7 @@
 # Gameboard - DEPRECATED
 A Discord bot that lists games to Pinterest
 
-Notice: due to the major Discord API update of April 2020, Gameboard is no longer working. The functionality is there, but all of the Discord method calls need to be either renamed or refitted. This would take a while, and unfortunately there hasn't been enough (any) interest for me to maintain it.
+Notice: due to the major Discord API update of April 2020, Gameboard is no longer working. The functionality is there, but all of the Discord method calls need to be either renamed or refitted. This would take a while, and unfortunately there hasn't been enough interest for me to maintain it.
 
 ## Discord Invite
 
